@@ -1,0 +1,21 @@
+{
+  "name": "weirdan/10706",
+  "require": {
+    "azjezz/psl": "^2.9"
+  },
+  "require-dev": {
+    "vimeo/psalm": "^5.22",
+    "php-standard-library/psalm-plugin": "^2.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Weirdan\\i10706\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Bruce Weirdan",
+      "email": "weirdan@gmail.com"
+    }
+  ]
+}
